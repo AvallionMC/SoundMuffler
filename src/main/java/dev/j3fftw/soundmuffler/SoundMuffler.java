@@ -48,6 +48,6 @@ public class SoundMuffler extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public String getBugTrackerURL() {
-        return "https://github.com/J3fftw1/SoundMuffler/issues";
+        return "https://github.com/AvallionMC/SoundMuffler/issues";
     }
 }
